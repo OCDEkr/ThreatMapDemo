@@ -28,9 +28,7 @@ A real-time 3D visualization system that displays firewall threat data on an int
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/OCDEkr/OCDEThreatMap.git
-cd OCDEThreatMap
-npm install
+Comming Soon!
 ```
 
 ### 2. Download MaxMind Database
@@ -85,6 +83,9 @@ npm start
 ```
 
 ### 5. Access the Dashboard
+
+### !!!WARNING!!!
+The Threat Map meant to sit behind a TLS Proxy,  Exposing this to the Internet is highly DISCOURAGED.
 
 1. Open http://localhost:3000
 2. Login with your configured credentials
